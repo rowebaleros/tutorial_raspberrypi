@@ -1,5 +1,5 @@
 # TUTORIAL TIL Å SETTE OPP RASPBERRY PI
-## DEL 1: her er en tutorial om hvordan:
+## Her er en tutorial om hvordan:
 ### - sette opp raspberry pi
 ### - installere SSH
 ### - sende filer
@@ -8,3 +8,6 @@
 ### - installere Mariadb
 ### - opprette brukere på Mariadb
 ### - opprette telefonkatalog på Mariadb
+
+## OBS: LAST NED DISSE APPENE
+### - for å restarte raspberry pi: https://www.raspberrypi.com/software/
